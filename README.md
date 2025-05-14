@@ -48,3 +48,14 @@ Open Source Image Tool
 Image Optimization for Web
 
 Fast Photo Resizer
+Resize image online
+
+Compress JPG or PNG
+
+Free image resizer
+
+WebP image converter
+
+Bulk photo resizer
+
+Resize image for website/social media
